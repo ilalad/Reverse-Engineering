@@ -1,7 +1,5 @@
 // requiring passport, and passport local dependencies
 
-// where passport allows users to log in with other accounts google or facebook but
-//  passport locak allows users to create a new username and password on this site
 var passport = require("passport");
 var LocalStrategy = require("passport-local").Strategy;
 
